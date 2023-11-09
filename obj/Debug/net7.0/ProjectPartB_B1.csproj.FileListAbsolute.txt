@@ -1,0 +1,30 @@
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/bin/Debug/net7.0/ProjectPartB_B1
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/bin/Debug/net7.0/ProjectPartB_B1.deps.json
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/bin/Debug/net7.0/ProjectPartB_B1.runtimeconfig.json
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/bin/Debug/net7.0/ProjectPartB_B1.dll
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/bin/Debug/net7.0/ProjectPartB_B1.pdb
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.csproj.AssemblyReference.cache
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.AssemblyInfoInputs.cache
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.AssemblyInfo.cs
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.csproj.CoreCompileInputs.cache
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.dll
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/refint/ProjectPartB_B1.dll
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.pdb
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ProjectPartB_B1.genruntimeconfig.cache
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB/ProjectPartB_B1/obj/Debug/net7.0/ref/ProjectPartB_B1.dll
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/bin/Debug/net7.0/ProjectPartB_B1
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/bin/Debug/net7.0/ProjectPartB_B1.deps.json
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/bin/Debug/net7.0/ProjectPartB_B1.runtimeconfig.json
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/bin/Debug/net7.0/ProjectPartB_B1.dll
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/bin/Debug/net7.0/ProjectPartB_B1.pdb
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/obj/Debug/net7.0/ProjectPartB_B1.csproj.AssemblyReference.cache
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/obj/Debug/net7.0/ProjectPartB_B1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/obj/Debug/net7.0/ProjectPartB_B1.AssemblyInfoInputs.cache
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/obj/Debug/net7.0/ProjectPartB_B1.AssemblyInfo.cs
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/obj/Debug/net7.0/ProjectPartB_B1.csproj.CoreCompileInputs.cache
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/obj/Debug/net7.0/ProjectPartB_B1.dll
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/obj/Debug/net7.0/refint/ProjectPartB_B1.dll
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/obj/Debug/net7.0/ProjectPartB_B1.pdb
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/obj/Debug/net7.0/ProjectPartB_B1.genruntimeconfig.cache
+/Users/aminrahimzadagan/Desktop/Projects/ProjectPartB_B1 master/obj/Debug/net7.0/ref/ProjectPartB_B1.dll
